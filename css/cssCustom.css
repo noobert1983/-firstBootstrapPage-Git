@@ -1,7 +1,54 @@
+body{
+    background-color: #2e393a;
+    color: #b6d3d6;
+}
+
 h1{
     text-align: center;
+    text-shadow: 2px 2 #25969e;
 }
 .blackDiv{
-    background-color: black;
+    text-align: center;
     color: burlywood;
+    background-color: black;
+    border-radius: 5%;
+}
+.container{
+    border: solid 2px;
+}
+.col-sm-1{
+    border: solid 1px;
+}
+.col-sm-2{
+    border: solid 1px;
+}
+.col-sm-3{
+    border: solid 1px;
+}
+.col-sm-4{
+    border: solid 1px;
+}
+.col-sm-5{
+    border: solid 1px;
+}
+.col-sm-6{
+    border: solid 1px;
+}
+.col-sm-7{
+    border: solid 1px;
+}
+.col-sm-8{
+    border: solid 1px;
+}
+.col-sm-9{
+    border: solid 1px;
+}
+.col-sm-10{
+    border: solid 1px;
+}
+.col-sm-11{
+    border: solid 1px;
+}
+.col-sm-12{
+    border: solid 1px;
 }
