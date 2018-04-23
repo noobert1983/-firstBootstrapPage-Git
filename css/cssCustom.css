@@ -6,6 +6,13 @@ body{
     background-size: 100%;
     z-index: -1;
 }
+.row{
+    padding: solid 10px;
+}
+.trialDiv{
+    background-color: yellow;
+    padding: solid 4px;
+}
 
 h1{
     text-align: center;
