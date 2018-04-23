@@ -3,7 +3,9 @@
 body{
     background-color: #2e393a;
     color: #b6d3d6;
-    
+    background-image: url(../image/4.jpg);
+    background-repeat: round;
+    background-size: 100% 100%;    
 }
 .container{
     border: solid 2px;
