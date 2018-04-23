@@ -14,6 +14,13 @@ h1{
     width: auto;
     z-index: 2;
 }
+
+p{
+    background-image: url(../image/3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .blackDiv{
     text-align: center;
     color: burlywood;
@@ -25,11 +32,30 @@ h1{
     border: solid 2px;
     
 }
+
+
+.col{
+    
+}
+    
 .col-sm-1{
     border: solid 1px;
 }
 .col-sm-2{
     border: solid 1px;
+    background-image: url(../image/1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#col-sm-2Id{
+    background-image: url(../image/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#col-sm-2Id2{
+    background-image: url(../image/2res800600.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .col-sm-3{
     border: solid 1px;
