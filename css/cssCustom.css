@@ -1,11 +1,15 @@
+
+
 body{
     background-color: #2e393a;
     color: #b6d3d6;
-    background-image: url(../image/1.jpg);
+    background-image: url(../image/3.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: -1;
 }
+
+/*
 .row{
     padding: solid 10px;
 }
@@ -16,7 +20,7 @@ body{
 
 h1{
     text-align: center;
-    /*text-shadow: 2px 2px #25969e;*/
+    text-shadow: 2px 2px #25969e;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
     width: auto;
     z-index: 2;
@@ -37,14 +41,14 @@ p{
 }
 .container{
     border: solid 2px;
-    
+
 }
-
-
+*/
+/*
 .col{
-    
+
 }
-    
+
 .col-sm-1{
     border: solid 1px;
 }
@@ -93,4 +97,4 @@ p{
 }
 .col-sm-12{
     border: solid 1px;
-}
+}*/
