@@ -24,11 +24,11 @@ body{
     padding: solid 4px;
 }
 
-.moja{
-    
+.moja{   
     background-image: url(../image/4.jpg);
     background-repeat: round;
     background-size: 100% 100%;
+    transform:rotate(45deg) skew(10deg,15deg);
 }
 .mojText{
     text-align: center;
