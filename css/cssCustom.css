@@ -18,6 +18,13 @@ body{
     display: none;
 }
 
+.trialDiv{
+    text-align: center;
+    background-color: yellow;
+    padding: solid 4px;
+}
+
+
 /*
 .row{
     padding: solid 10px;
