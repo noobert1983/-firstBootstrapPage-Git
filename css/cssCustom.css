@@ -24,7 +24,15 @@ body{
     padding: solid 4px;
 }
 
-
+.moja{
+    
+    background-image: url(../image/4.jpg);
+    background-repeat: round;
+    background-size: 100% 100%;
+}
+.mojText{
+    text-align: center;
+}
 /*
 .row{
     padding: solid 10px;
