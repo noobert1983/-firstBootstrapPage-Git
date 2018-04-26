@@ -9,6 +9,8 @@ body{
 .row{
     padding: solid 10px;
 }
+
+
 .trialDiv{
     background-color: yellow;
     padding: solid 4px;
@@ -27,8 +29,22 @@ p{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+p.duzoText:first-letter{
+    color: red;
+    font-family: 'Times New Roman', serif;
+    font-size: 300%;
+    float: left; 
+}
 
-.blackDiv{
+p:before {
+    content: "POCZĄTEK ";
+    color: red;
+}
+p:after { content: " KONIEC";
+    color: red;
+}
+
+p.blackDiv{
     text-align: center;
     color: burlywood;
     background-color: black;
